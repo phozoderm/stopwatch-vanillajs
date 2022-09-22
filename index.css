@@ -1,0 +1,49 @@
+
+h1, h2 {
+    font-weight: 100;
+    font-size: 2.6em;
+    text-transform: uppercase;
+    text-align:center;
+    color:white;
+    padding-bottom: 10px;
+}
+p{
+    color: white;
+    text-align: center;
+}
+#seconds, #tens{
+    font-size:2em;
+    color: white;
+    text-align: center;
+}
+body {
+    background-color: mediumpurple
+}
+button:hover {
+    color: mediumpurple;
+    background-color: white;
+}
+button{
+    width: 180px;
+    padding: 18px 10px;
+    margin: 10px;
+    color:white;
+    background-color: mediumpurple;
+    border: solid 1px white;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1.2em;
+}
+.div {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
